@@ -32,6 +32,7 @@ import pandas as pd
 import numpy as np
 import os
 
+    #quitar esta linea y organizar todo
 vectorizer = TfidfVectorizer()
 
 def cargarFicheros(cadena):
