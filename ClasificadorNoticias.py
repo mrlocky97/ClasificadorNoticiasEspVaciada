@@ -32,6 +32,8 @@ import pandas as pd
 import numpy as np
 import os
 
+#Hola, TONTO EL QUE LO LEA
+
     #quitar esta linea y organizar todo
 vectorizer = TfidfVectorizer()
 
