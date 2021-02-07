@@ -32,7 +32,7 @@ import pandas as pd
 import numpy as np
 import os
 
-#COMMIT DE PRUEBA
+#COMMIT DE PRUEBA JAVIER
 
     #quitar esta linea y organizar todo
 vectorizer = TfidfVectorizer()
